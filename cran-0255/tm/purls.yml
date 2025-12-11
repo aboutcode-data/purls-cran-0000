@@ -39,6 +39,7 @@
 - pkg:cran/tm@0.7-14
 - pkg:cran/tm@0.7-15
 - pkg:cran/tm@0.7-16
+- pkg:cran/tm@0.7-17
 - pkg:cran/tm@0.7-2
 - pkg:cran/tm@0.7-3
 - pkg:cran/tm@0.7-4

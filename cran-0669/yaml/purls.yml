@@ -29,6 +29,7 @@
 - pkg:cran/yaml@2.2.2
 - pkg:cran/yaml@2.3.10
 - pkg:cran/yaml@2.3.11
+- pkg:cran/yaml@2.3.12
 - pkg:cran/yaml@2.3.4
 - pkg:cran/yaml@2.3.5
 - pkg:cran/yaml@2.3.6
