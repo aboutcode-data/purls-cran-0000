@@ -1,6 +1,7 @@
 - pkg:cran/aRxiv@0.10
 - pkg:cran/aRxiv@0.12
 - pkg:cran/aRxiv@0.14
+- pkg:cran/aRxiv@0.16
 - pkg:cran/aRxiv@0.5.10
 - pkg:cran/aRxiv@0.5.15
 - pkg:cran/aRxiv@0.5.16

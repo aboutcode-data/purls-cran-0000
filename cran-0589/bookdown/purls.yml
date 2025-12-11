@@ -38,6 +38,7 @@
 - pkg:cran/bookdown@0.43
 - pkg:cran/bookdown@0.44
 - pkg:cran/bookdown@0.45
+- pkg:cran/bookdown@0.46
 - pkg:cran/bookdown@0.5
 - pkg:cran/bookdown@0.6
 - pkg:cran/bookdown@0.7
