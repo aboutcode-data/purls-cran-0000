@@ -11,6 +11,7 @@
 - pkg:cran/mclogit@0.8.5.1
 - pkg:cran/mclogit@0.8.6.4
 - pkg:cran/mclogit@0.8.7.3
+- pkg:cran/mclogit@0.9.15
 - pkg:cran/mclogit@0.9.4
 - pkg:cran/mclogit@0.9.4.2
 - pkg:cran/mclogit@0.9.6
