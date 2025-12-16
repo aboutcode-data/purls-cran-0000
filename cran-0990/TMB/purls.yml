@@ -36,6 +36,7 @@
 - pkg:cran/TMB@1.9.16
 - pkg:cran/TMB@1.9.17
 - pkg:cran/TMB@1.9.18
+- pkg:cran/TMB@1.9.19
 - pkg:cran/TMB@1.9.2
 - pkg:cran/TMB@1.9.3
 - pkg:cran/TMB@1.9.4
