@@ -37,6 +37,7 @@
 - pkg:cran/SimDesign@2.2
 - pkg:cran/SimDesign@2.20.0
 - pkg:cran/SimDesign@2.21
+- pkg:cran/SimDesign@2.22
 - pkg:cran/SimDesign@2.3
 - pkg:cran/SimDesign@2.5
 - pkg:cran/SimDesign@2.6
