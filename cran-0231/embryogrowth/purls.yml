@@ -1,6 +1,7 @@
 - pkg:cran/embryogrowth@10.2
 - pkg:cran/embryogrowth@10.3
 - pkg:cran/embryogrowth@10.4
+- pkg:cran/embryogrowth@2025.12.22
 - pkg:cran/embryogrowth@5.0
 - pkg:cran/embryogrowth@5.1
 - pkg:cran/embryogrowth@6.0
