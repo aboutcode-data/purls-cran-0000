@@ -37,6 +37,7 @@
 - pkg:cran/data.table@1.17.4
 - pkg:cran/data.table@1.17.6
 - pkg:cran/data.table@1.17.8
+- pkg:cran/data.table@1.18.0
 - pkg:cran/data.table@1.2
 - pkg:cran/data.table@1.4.1
 - pkg:cran/data.table@1.5
