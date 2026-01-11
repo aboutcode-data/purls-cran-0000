@@ -58,3 +58,4 @@
 - pkg:cran/randomForestSRC@3.4.3
 - pkg:cran/randomForestSRC@3.4.4
 - pkg:cran/randomForestSRC@3.4.5
+- pkg:cran/randomForestSRC@3.5.0
