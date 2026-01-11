@@ -93,3 +93,4 @@
 - pkg:cran/forecast@8.7
 - pkg:cran/forecast@8.8
 - pkg:cran/forecast@8.9
+- pkg:cran/forecast@9.0.0
