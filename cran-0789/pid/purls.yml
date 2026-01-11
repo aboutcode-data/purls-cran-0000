@@ -3,3 +3,4 @@
 - pkg:cran/pid@0.32
 - pkg:cran/pid@0.36
 - pkg:cran/pid@0.50
+- pkg:cran/pid@0.65
