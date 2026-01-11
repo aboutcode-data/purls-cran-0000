@@ -48,3 +48,4 @@
 - pkg:cran/testthat@3.2.3
 - pkg:cran/testthat@3.3.0
 - pkg:cran/testthat@3.3.1
+- pkg:cran/testthat@3.3.2
