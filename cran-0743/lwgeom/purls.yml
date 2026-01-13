@@ -12,6 +12,7 @@
 - pkg:cran/lwgeom@0.2-11
 - pkg:cran/lwgeom@0.2-13
 - pkg:cran/lwgeom@0.2-14
+- pkg:cran/lwgeom@0.2-15
 - pkg:cran/lwgeom@0.2-2
 - pkg:cran/lwgeom@0.2-3
 - pkg:cran/lwgeom@0.2-4
