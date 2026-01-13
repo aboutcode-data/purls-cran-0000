@@ -12,6 +12,7 @@
 - pkg:cran/RcppAnnoy@0.0.20
 - pkg:cran/RcppAnnoy@0.0.21
 - pkg:cran/RcppAnnoy@0.0.22
+- pkg:cran/RcppAnnoy@0.0.23
 - pkg:cran/RcppAnnoy@0.0.3
 - pkg:cran/RcppAnnoy@0.0.4
 - pkg:cran/RcppAnnoy@0.0.5
