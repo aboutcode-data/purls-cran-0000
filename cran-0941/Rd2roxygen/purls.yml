@@ -24,6 +24,7 @@
 - pkg:cran/Rd2roxygen@1.15
 - pkg:cran/Rd2roxygen@1.16
 - pkg:cran/Rd2roxygen@1.17
+- pkg:cran/Rd2roxygen@1.18
 - pkg:cran/Rd2roxygen@1.2
 - pkg:cran/Rd2roxygen@1.3
 - pkg:cran/Rd2roxygen@1.4
