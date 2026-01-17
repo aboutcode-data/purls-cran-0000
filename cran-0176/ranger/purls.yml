@@ -10,6 +10,7 @@
 - pkg:cran/ranger@0.15.1
 - pkg:cran/ranger@0.16.0
 - pkg:cran/ranger@0.17.0
+- pkg:cran/ranger@0.18.0
 - pkg:cran/ranger@0.2.6
 - pkg:cran/ranger@0.2.7
 - pkg:cran/ranger@0.3.0

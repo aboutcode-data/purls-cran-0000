@@ -22,3 +22,4 @@
 - pkg:cran/RcppThread@2.1.6
 - pkg:cran/RcppThread@2.1.7
 - pkg:cran/RcppThread@2.2.0
+- pkg:cran/RcppThread@2.3.0
