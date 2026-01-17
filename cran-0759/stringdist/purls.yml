@@ -15,6 +15,7 @@
 - pkg:cran/stringdist@0.9.12
 - pkg:cran/stringdist@0.9.14
 - pkg:cran/stringdist@0.9.15
+- pkg:cran/stringdist@0.9.17
 - pkg:cran/stringdist@0.9.2
 - pkg:cran/stringdist@0.9.3
 - pkg:cran/stringdist@0.9.4
