@@ -18,6 +18,7 @@
 - pkg:cran/BART@2.7
 - pkg:cran/BART@2.8
 - pkg:cran/BART@2.9
+- pkg:cran/BART@2.9.10
 - pkg:cran/BART@2.9.3
 - pkg:cran/BART@2.9.4
 - pkg:cran/BART@2.9.6
