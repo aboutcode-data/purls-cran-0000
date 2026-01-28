@@ -2,6 +2,7 @@
 - pkg:cran/mlr3oml@0.10.0
 - pkg:cran/mlr3oml@0.10.1
 - pkg:cran/mlr3oml@0.11.0
+- pkg:cran/mlr3oml@0.12.0
 - pkg:cran/mlr3oml@0.2.0
 - pkg:cran/mlr3oml@0.3.0
 - pkg:cran/mlr3oml@0.4.0
