@@ -17,6 +17,7 @@
 - pkg:cran/udpipe@0.8.13
 - pkg:cran/udpipe@0.8.14
 - pkg:cran/udpipe@0.8.15
+- pkg:cran/udpipe@0.8.16
 - pkg:cran/udpipe@0.8.2
 - pkg:cran/udpipe@0.8.3
 - pkg:cran/udpipe@0.8.4
