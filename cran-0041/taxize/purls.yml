@@ -8,6 +8,7 @@
 - pkg:cran/taxize@0.1.5
 - pkg:cran/taxize@0.1.8
 - pkg:cran/taxize@0.10.0
+- pkg:cran/taxize@0.10.1
 - pkg:cran/taxize@0.2.0
 - pkg:cran/taxize@0.2.2
 - pkg:cran/taxize@0.3.0

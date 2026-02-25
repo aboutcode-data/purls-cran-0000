@@ -1,1 +1,2 @@
 - pkg:cran/treesitter.c@0.0.1
+- pkg:cran/treesitter.c@0.0.4.2

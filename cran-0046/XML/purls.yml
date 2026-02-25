@@ -128,6 +128,7 @@
 - pkg:cran/XML@3.99-0.19
 - pkg:cran/XML@3.99-0.2
 - pkg:cran/XML@3.99-0.20
+- pkg:cran/XML@3.99-0.22
 - pkg:cran/XML@3.99-0.3
 - pkg:cran/XML@3.99-0.4
 - pkg:cran/XML@3.99-0.5
