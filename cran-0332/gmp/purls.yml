@@ -49,3 +49,4 @@
 - pkg:cran/gmp@0.7-3
 - pkg:cran/gmp@0.7-4
 - pkg:cran/gmp@0.7-5
+- pkg:cran/gmp@0.7-5.1

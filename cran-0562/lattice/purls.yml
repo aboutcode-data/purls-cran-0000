@@ -115,6 +115,7 @@
 - pkg:cran/lattice@0.22-5
 - pkg:cran/lattice@0.22-6
 - pkg:cran/lattice@0.22-7
+- pkg:cran/lattice@0.22-9
 - pkg:cran/lattice@0.3-0
 - pkg:cran/lattice@0.3-1
 - pkg:cran/lattice@0.4-0

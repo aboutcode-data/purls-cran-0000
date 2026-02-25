@@ -16,6 +16,7 @@
 - pkg:cran/lpSolveAPI@5.5.2.0-17.11
 - pkg:cran/lpSolveAPI@5.5.2.0-17.12
 - pkg:cran/lpSolveAPI@5.5.2.0-17.14
+- pkg:cran/lpSolveAPI@5.5.2.0-17.15
 - pkg:cran/lpSolveAPI@5.5.2.0-17.2
 - pkg:cran/lpSolveAPI@5.5.2.0-17.3
 - pkg:cran/lpSolveAPI@5.5.2.0-17.4

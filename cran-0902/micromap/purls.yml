@@ -5,6 +5,8 @@
 - pkg:cran/micromap@1.9
 - pkg:cran/micromap@1.9.1
 - pkg:cran/micromap@1.9.10
+- pkg:cran/micromap@1.9.11
+- pkg:cran/micromap@1.9.12
 - pkg:cran/micromap@1.9.2
 - pkg:cran/micromap@1.9.3
 - pkg:cran/micromap@1.9.4

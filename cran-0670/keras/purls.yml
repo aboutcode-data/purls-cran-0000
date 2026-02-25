@@ -12,6 +12,7 @@
 - pkg:cran/keras@2.13.0
 - pkg:cran/keras@2.15.0
 - pkg:cran/keras@2.16.0
+- pkg:cran/keras@2.16.1
 - pkg:cran/keras@2.2.0
 - pkg:cran/keras@2.2.4
 - pkg:cran/keras@2.2.4.1
