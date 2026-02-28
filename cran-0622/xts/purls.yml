@@ -19,6 +19,7 @@
 - pkg:cran/xts@0.13.2
 - pkg:cran/xts@0.14.0
 - pkg:cran/xts@0.14.1
+- pkg:cran/xts@0.14.2
 - pkg:cran/xts@0.6-2
 - pkg:cran/xts@0.6-3
 - pkg:cran/xts@0.6-4
