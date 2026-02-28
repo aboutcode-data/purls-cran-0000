@@ -1,6 +1,7 @@
 - pkg:cran/phenology@10.1
 - pkg:cran/phenology@10.3
 - pkg:cran/phenology@2025.11.12
+- pkg:cran/phenology@2026.2.28
 - pkg:cran/phenology@3.25
 - pkg:cran/phenology@3.28
 - pkg:cran/phenology@3.29
