@@ -12,6 +12,7 @@
 - pkg:cran/RcppGSL@0.3.11
 - pkg:cran/RcppGSL@0.3.12
 - pkg:cran/RcppGSL@0.3.13
+- pkg:cran/RcppGSL@0.3.14
 - pkg:cran/RcppGSL@0.3.2
 - pkg:cran/RcppGSL@0.3.3
 - pkg:cran/RcppGSL@0.3.4
