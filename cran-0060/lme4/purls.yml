@@ -133,3 +133,4 @@
 - pkg:cran/lme4@1.1-7
 - pkg:cran/lme4@1.1-8
 - pkg:cran/lme4@1.1-9
+- pkg:cran/lme4@2.0-1
