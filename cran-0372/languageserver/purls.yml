@@ -18,6 +18,7 @@
 - pkg:cran/languageserver@0.3.14
 - pkg:cran/languageserver@0.3.15
 - pkg:cran/languageserver@0.3.16
+- pkg:cran/languageserver@0.3.17
 - pkg:cran/languageserver@0.3.2
 - pkg:cran/languageserver@0.3.3
 - pkg:cran/languageserver@0.3.4
