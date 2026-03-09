@@ -1,3 +1,4 @@
 - pkg:cran/RcppML@0.1.0
 - pkg:cran/RcppML@0.3.5
 - pkg:cran/RcppML@0.3.7
+- pkg:cran/RcppML@0.3.7.1
