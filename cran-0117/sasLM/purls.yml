@@ -9,6 +9,7 @@
 - pkg:cran/sasLM@0.10.5
 - pkg:cran/sasLM@0.10.6
 - pkg:cran/sasLM@0.10.7
+- pkg:cran/sasLM@0.10.8
 - pkg:cran/sasLM@0.2.0
 - pkg:cran/sasLM@0.2.1
 - pkg:cran/sasLM@0.3.0
