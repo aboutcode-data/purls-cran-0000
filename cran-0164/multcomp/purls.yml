@@ -102,6 +102,7 @@
 - pkg:cran/multcomp@1.4-28
 - pkg:cran/multcomp@1.4-29
 - pkg:cran/multcomp@1.4-3
+- pkg:cran/multcomp@1.4-30
 - pkg:cran/multcomp@1.4-4
 - pkg:cran/multcomp@1.4-5
 - pkg:cran/multcomp@1.4-6
