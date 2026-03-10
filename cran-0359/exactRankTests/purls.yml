@@ -50,6 +50,7 @@
 - pkg:cran/exactRankTests@0.8-32
 - pkg:cran/exactRankTests@0.8-34
 - pkg:cran/exactRankTests@0.8-35
+- pkg:cran/exactRankTests@0.8-36
 - pkg:cran/exactRankTests@0.8-4
 - pkg:cran/exactRankTests@0.8-5
 - pkg:cran/exactRankTests@0.8-6
