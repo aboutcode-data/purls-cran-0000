@@ -1,4 +1,5 @@
 - pkg:cran/tidyCpp@0.0.1
+- pkg:cran/tidyCpp@0.0.10
 - pkg:cran/tidyCpp@0.0.2
 - pkg:cran/tidyCpp@0.0.3
 - pkg:cran/tidyCpp@0.0.4
