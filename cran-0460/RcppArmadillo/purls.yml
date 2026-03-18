@@ -184,3 +184,4 @@
 - pkg:cran/RcppArmadillo@15.0.2-2
 - pkg:cran/RcppArmadillo@15.2.2-1
 - pkg:cran/RcppArmadillo@15.2.3-1
+- pkg:cran/RcppArmadillo@15.2.4-1
