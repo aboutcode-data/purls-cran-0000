@@ -12,6 +12,7 @@
 - pkg:cran/fixest@0.12.0
 - pkg:cran/fixest@0.12.1
 - pkg:cran/fixest@0.13.2
+- pkg:cran/fixest@0.14.0
 - pkg:cran/fixest@0.2.0
 - pkg:cran/fixest@0.2.1
 - pkg:cran/fixest@0.3.0
