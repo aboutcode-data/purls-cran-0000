@@ -37,6 +37,7 @@
 - pkg:cran/deSolve@1.38
 - pkg:cran/deSolve@1.40
 - pkg:cran/deSolve@1.41
+- pkg:cran/deSolve@1.42
 - pkg:cran/deSolve@1.5
 - pkg:cran/deSolve@1.5-1
 - pkg:cran/deSolve@1.6
