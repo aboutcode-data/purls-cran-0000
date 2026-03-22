@@ -25,3 +25,4 @@
 - pkg:cran/fs@1.6.5
 - pkg:cran/fs@1.6.6
 - pkg:cran/fs@1.6.7
+- pkg:cran/fs@2.0.0
