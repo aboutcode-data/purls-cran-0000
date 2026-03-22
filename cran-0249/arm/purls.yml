@@ -58,6 +58,7 @@
 - pkg:cran/arm@1.13-1
 - pkg:cran/arm@1.14-4
 - pkg:cran/arm@1.15-1
+- pkg:cran/arm@1.15-2
 - pkg:cran/arm@1.2-0
 - pkg:cran/arm@1.2-1
 - pkg:cran/arm@1.2-10
