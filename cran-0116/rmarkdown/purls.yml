@@ -54,6 +54,7 @@
 - pkg:cran/rmarkdown@2.29
 - pkg:cran/rmarkdown@2.3
 - pkg:cran/rmarkdown@2.30
+- pkg:cran/rmarkdown@2.31
 - pkg:cran/rmarkdown@2.4
 - pkg:cran/rmarkdown@2.5
 - pkg:cran/rmarkdown@2.6
