@@ -52,6 +52,7 @@
 - pkg:cran/tinytex@0.56
 - pkg:cran/tinytex@0.57
 - pkg:cran/tinytex@0.58
+- pkg:cran/tinytex@0.59
 - pkg:cran/tinytex@0.6
 - pkg:cran/tinytex@0.7
 - pkg:cran/tinytex@0.8
