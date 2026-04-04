@@ -29,6 +29,7 @@
 - pkg:cran/fingerprint@3.4.9
 - pkg:cran/fingerprint@3.4.9.1
 - pkg:cran/fingerprint@3.5.0.1
+- pkg:cran/fingerprint@3.5.10
 - pkg:cran/fingerprint@3.5.2
 - pkg:cran/fingerprint@3.5.4
 - pkg:cran/fingerprint@3.5.6
