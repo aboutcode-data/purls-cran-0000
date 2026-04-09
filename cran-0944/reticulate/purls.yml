@@ -46,6 +46,7 @@
 - pkg:cran/reticulate@1.44.0
 - pkg:cran/reticulate@1.44.1
 - pkg:cran/reticulate@1.45.0
+- pkg:cran/reticulate@1.46.0
 - pkg:cran/reticulate@1.5
 - pkg:cran/reticulate@1.6
 - pkg:cran/reticulate@1.7
