@@ -14,6 +14,7 @@
 - pkg:cran/pagedown@0.21
 - pkg:cran/pagedown@0.22
 - pkg:cran/pagedown@0.23
+- pkg:cran/pagedown@0.24
 - pkg:cran/pagedown@0.3
 - pkg:cran/pagedown@0.4
 - pkg:cran/pagedown@0.5
