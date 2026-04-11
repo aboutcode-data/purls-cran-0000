@@ -16,6 +16,7 @@
 - pkg:cran/torch@0.16.1
 - pkg:cran/torch@0.16.2
 - pkg:cran/torch@0.16.3
+- pkg:cran/torch@0.17.0
 - pkg:cran/torch@0.2.0
 - pkg:cran/torch@0.2.1
 - pkg:cran/torch@0.3.0
