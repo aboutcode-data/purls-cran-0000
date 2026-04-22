@@ -77,3 +77,4 @@
 - pkg:cran/igraph@2.2.1
 - pkg:cran/igraph@2.2.2
 - pkg:cran/igraph@2.2.3
+- pkg:cran/igraph@2.3.0
