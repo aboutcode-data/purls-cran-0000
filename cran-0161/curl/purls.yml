@@ -54,3 +54,4 @@
 - pkg:cran/curl@6.3.0
 - pkg:cran/curl@6.4.0
 - pkg:cran/curl@7.0.0
+- pkg:cran/curl@7.1.0
