@@ -11,3 +11,4 @@
 - pkg:cran/unix@1.5.7
 - pkg:cran/unix@1.5.8
 - pkg:cran/unix@1.5.9
+- pkg:cran/unix@1.6.0
