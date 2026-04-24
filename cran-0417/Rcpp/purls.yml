@@ -102,4 +102,6 @@
 - pkg:cran/Rcpp@1.1.0
 - pkg:cran/Rcpp@1.1.0.8
 - pkg:cran/Rcpp@1.1.0.8.1
+- pkg:cran/Rcpp@1.1.0.8.2
 - pkg:cran/Rcpp@1.1.1
+- pkg:cran/Rcpp@1.1.1-1.1
