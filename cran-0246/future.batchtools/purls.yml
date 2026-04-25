@@ -5,6 +5,7 @@
 - pkg:cran/future.batchtools@0.12.2
 - pkg:cran/future.batchtools@0.20.0
 - pkg:cran/future.batchtools@0.21.0
+- pkg:cran/future.batchtools@0.22.0
 - pkg:cran/future.batchtools@0.5.0
 - pkg:cran/future.batchtools@0.6.0
 - pkg:cran/future.batchtools@0.7.0
