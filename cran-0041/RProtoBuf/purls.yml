@@ -29,6 +29,7 @@
 - pkg:cran/RProtoBuf@0.4.24
 - pkg:cran/RProtoBuf@0.4.25
 - pkg:cran/RProtoBuf@0.4.26
+- pkg:cran/RProtoBuf@0.4.27
 - pkg:cran/RProtoBuf@0.4.3
 - pkg:cran/RProtoBuf@0.4.4
 - pkg:cran/RProtoBuf@0.4.5
