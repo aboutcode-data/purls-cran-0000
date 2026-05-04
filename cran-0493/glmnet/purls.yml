@@ -51,3 +51,4 @@
 - pkg:cran/glmnet@4.1-7
 - pkg:cran/glmnet@4.1-8
 - pkg:cran/glmnet@4.1-9
+- pkg:cran/glmnet@5.0
