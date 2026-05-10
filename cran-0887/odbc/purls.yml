@@ -27,3 +27,4 @@
 - pkg:cran/odbc@1.6.3
 - pkg:cran/odbc@1.6.4
 - pkg:cran/odbc@1.6.4.1
+- pkg:cran/odbc@1.7.0
