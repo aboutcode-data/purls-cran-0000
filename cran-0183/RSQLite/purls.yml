@@ -97,3 +97,4 @@
 - pkg:cran/RSQLite@2.4.4
 - pkg:cran/RSQLite@2.4.5
 - pkg:cran/RSQLite@2.4.6
+- pkg:cran/RSQLite@3.52.0
