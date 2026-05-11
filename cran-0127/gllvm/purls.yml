@@ -16,5 +16,6 @@
 - pkg:cran/gllvm@1.4.3
 - pkg:cran/gllvm@2.0
 - pkg:cran/gllvm@2.0.1
+- pkg:cran/gllvm@2.0.10
 - pkg:cran/gllvm@2.0.2
 - pkg:cran/gllvm@2.0.5
