@@ -5,6 +5,7 @@
 - pkg:cran/Boruta@1.4
 - pkg:cran/Boruta@1.5
 - pkg:cran/Boruta@1.6
+- pkg:cran/Boruta@10.0.0
 - pkg:cran/Boruta@2.0.0
 - pkg:cran/Boruta@2.1.0
 - pkg:cran/Boruta@3.0.0
