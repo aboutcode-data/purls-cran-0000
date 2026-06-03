@@ -1,5 +1,6 @@
 - pkg:cran/logging@0.1-8996
 - pkg:cran/logging@0.10-108
+- pkg:cran/logging@0.10-111
 - pkg:cran/logging@0.2-9014
 - pkg:cran/logging@0.2-9100
 - pkg:cran/logging@0.3-9809
