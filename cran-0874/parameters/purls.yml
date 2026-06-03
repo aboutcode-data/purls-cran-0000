@@ -40,6 +40,7 @@
 - pkg:cran/parameters@0.28.2
 - pkg:cran/parameters@0.28.3
 - pkg:cran/parameters@0.29.0
+- pkg:cran/parameters@0.29.1
 - pkg:cran/parameters@0.3.0
 - pkg:cran/parameters@0.4.0
 - pkg:cran/parameters@0.4.1
