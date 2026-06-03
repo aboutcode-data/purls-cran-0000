@@ -25,3 +25,5 @@
 - pkg:cran/rxode2@5.0.0
 - pkg:cran/rxode2@5.0.1
 - pkg:cran/rxode2@5.0.2
+- pkg:cran/rxode2@5.1.1
+- pkg:cran/rxode2@5.1.2
