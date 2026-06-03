@@ -42,3 +42,4 @@
 - pkg:cran/tidycensus@1.7.3
 - pkg:cran/tidycensus@1.7.5
 - pkg:cran/tidycensus@1.8.0
+- pkg:cran/tidycensus@1.8.1
