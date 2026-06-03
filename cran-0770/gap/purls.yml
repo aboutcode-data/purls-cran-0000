@@ -40,6 +40,8 @@
 - pkg:cran/gap@1.1-8
 - pkg:cran/gap@1.1-9
 - pkg:cran/gap@1.14
+- pkg:cran/gap@1.15.1
+- pkg:cran/gap@1.15.2
 - pkg:cran/gap@1.2.1
 - pkg:cran/gap@1.2.2
 - pkg:cran/gap@1.2.3-1
