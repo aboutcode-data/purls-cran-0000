@@ -24,6 +24,7 @@
 - pkg:cran/servr@0.30
 - pkg:cran/servr@0.31
 - pkg:cran/servr@0.32
+- pkg:cran/servr@0.33
 - pkg:cran/servr@0.4
 - pkg:cran/servr@0.4.1
 - pkg:cran/servr@0.5
