@@ -4,6 +4,7 @@
 - pkg:cran/qtlcharts@0.16
 - pkg:cran/qtlcharts@0.18
 - pkg:cran/qtlcharts@0.20
+- pkg:cran/qtlcharts@0.22
 - pkg:cran/qtlcharts@0.5-23
 - pkg:cran/qtlcharts@0.5-25
 - pkg:cran/qtlcharts@0.6-6
