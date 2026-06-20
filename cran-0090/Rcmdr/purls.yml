@@ -98,6 +98,7 @@
 - pkg:cran/Rcmdr@2.1-7
 - pkg:cran/Rcmdr@2.12.2
 - pkg:cran/Rcmdr@2.12.3
+- pkg:cran/Rcmdr@2.13.0
 - pkg:cran/Rcmdr@2.2-0
 - pkg:cran/Rcmdr@2.2-1
 - pkg:cran/Rcmdr@2.2-2
