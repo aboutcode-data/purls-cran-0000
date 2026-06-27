@@ -15,6 +15,7 @@
 - pkg:cran/buildmer@2.10.1
 - pkg:cran/buildmer@2.11
 - pkg:cran/buildmer@2.12
+- pkg:cran/buildmer@2.13
 - pkg:cran/buildmer@2.2
 - pkg:cran/buildmer@2.3
 - pkg:cran/buildmer@2.4
