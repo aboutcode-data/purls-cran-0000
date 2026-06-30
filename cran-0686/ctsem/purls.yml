@@ -34,6 +34,7 @@
 - pkg:cran/ctsem@3.10.4
 - pkg:cran/ctsem@3.10.5
 - pkg:cran/ctsem@3.10.6
+- pkg:cran/ctsem@3.11.0
 - pkg:cran/ctsem@3.2.0
 - pkg:cran/ctsem@3.2.1
 - pkg:cran/ctsem@3.3.11
