@@ -45,6 +45,7 @@
 - pkg:cran/FactoMineR@2.13
 - pkg:cran/FactoMineR@2.14
 - pkg:cran/FactoMineR@2.15
+- pkg:cran/FactoMineR@2.16
 - pkg:cran/FactoMineR@2.2
 - pkg:cran/FactoMineR@2.3
 - pkg:cran/FactoMineR@2.4
