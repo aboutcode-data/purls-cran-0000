@@ -33,3 +33,4 @@
 - pkg:cran/gbm@2.2.2
 - pkg:cran/gbm@2.2.3
 - pkg:cran/gbm@2.3.0
+- pkg:cran/gbm@2.3.1
