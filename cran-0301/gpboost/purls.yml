@@ -54,3 +54,4 @@
 - pkg:cran/gpboost@1.6.7
 - pkg:cran/gpboost@1.6.8
 - pkg:cran/gpboost@1.7.0
+- pkg:cran/gpboost@1.7.0.1
