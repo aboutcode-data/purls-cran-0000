@@ -15,3 +15,4 @@
 - pkg:cran/mlpack@4.6.2
 - pkg:cran/mlpack@4.6.3
 - pkg:cran/mlpack@4.7.0
+- pkg:cran/mlpack@4.8.0
