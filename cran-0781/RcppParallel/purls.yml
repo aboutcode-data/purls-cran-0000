@@ -33,3 +33,4 @@
 - pkg:cran/RcppParallel@5.1.7
 - pkg:cran/RcppParallel@5.1.8
 - pkg:cran/RcppParallel@5.1.9
+- pkg:cran/RcppParallel@6.0.0
