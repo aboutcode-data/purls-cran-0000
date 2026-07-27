@@ -1,6 +1,7 @@
 - pkg:cran/ThresholdROC@1.0
 - pkg:cran/ThresholdROC@2.0
 - pkg:cran/ThresholdROC@2.1
+- pkg:cran/ThresholdROC@2.10.0
 - pkg:cran/ThresholdROC@2.2
 - pkg:cran/ThresholdROC@2.3
 - pkg:cran/ThresholdROC@2.4
