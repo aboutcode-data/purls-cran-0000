@@ -25,6 +25,7 @@
 - pkg:cran/gets@0.37
 - pkg:cran/gets@0.38
 - pkg:cran/gets@0.4
+- pkg:cran/gets@0.40
 - pkg:cran/gets@0.5
 - pkg:cran/gets@0.6
 - pkg:cran/gets@0.7
