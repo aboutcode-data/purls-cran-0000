@@ -20,6 +20,7 @@
 - pkg:cran/RNetCDF@2.1-1
 - pkg:cran/RNetCDF@2.10-2
 - pkg:cran/RNetCDF@2.11-1
+- pkg:cran/RNetCDF@2.11-2
 - pkg:cran/RNetCDF@2.3-1
 - pkg:cran/RNetCDF@2.4-2
 - pkg:cran/RNetCDF@2.5-2
