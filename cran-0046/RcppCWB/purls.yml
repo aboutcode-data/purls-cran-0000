@@ -26,6 +26,7 @@
 - pkg:cran/RcppCWB@0.6.0
 - pkg:cran/RcppCWB@0.6.1
 - pkg:cran/RcppCWB@0.6.10
+- pkg:cran/RcppCWB@0.6.11
 - pkg:cran/RcppCWB@0.6.2
 - pkg:cran/RcppCWB@0.6.3
 - pkg:cran/RcppCWB@0.6.4
