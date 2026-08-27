@@ -17,6 +17,7 @@
 - pkg:cran/pROC@1.18.4
 - pkg:cran/pROC@1.18.5
 - pkg:cran/pROC@1.19.0.1
+- pkg:cran/pROC@1.19.1
 - pkg:cran/pROC@1.2
 - pkg:cran/pROC@1.2.1
 - pkg:cran/pROC@1.3
