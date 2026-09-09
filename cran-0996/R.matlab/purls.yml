@@ -39,3 +39,4 @@
 - pkg:cran/R.matlab@3.6.1
 - pkg:cran/R.matlab@3.6.2
 - pkg:cran/R.matlab@3.7.0
+- pkg:cran/R.matlab@3.8.0
