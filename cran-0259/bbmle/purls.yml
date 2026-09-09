@@ -25,6 +25,7 @@
 - pkg:cran/bbmle@1.0.24
 - pkg:cran/bbmle@1.0.25
 - pkg:cran/bbmle@1.0.25.1
+- pkg:cran/bbmle@1.0.26
 - pkg:cran/bbmle@1.0.3
 - pkg:cran/bbmle@1.0.4
 - pkg:cran/bbmle@1.0.4.1
