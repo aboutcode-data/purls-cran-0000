@@ -61,6 +61,7 @@
 - pkg:cran/knitr@1.5
 - pkg:cran/knitr@1.50
 - pkg:cran/knitr@1.51
+- pkg:cran/knitr@1.52
 - pkg:cran/knitr@1.6
 - pkg:cran/knitr@1.7
 - pkg:cran/knitr@1.8
