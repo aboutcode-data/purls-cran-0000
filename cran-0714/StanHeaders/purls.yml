@@ -31,6 +31,7 @@
 - pkg:cran/StanHeaders@2.32.7
 - pkg:cran/StanHeaders@2.32.8
 - pkg:cran/StanHeaders@2.32.9
+- pkg:cran/StanHeaders@2.39.1
 - pkg:cran/StanHeaders@2.6.0-10
 - pkg:cran/StanHeaders@2.7.0
 - pkg:cran/StanHeaders@2.8.0
