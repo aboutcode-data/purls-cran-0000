@@ -24,3 +24,4 @@
 - pkg:cran/tesseract@5.2.4
 - pkg:cran/tesseract@5.2.5
 - pkg:cran/tesseract@5.3.0
+- pkg:cran/tesseract@5.3.1
