@@ -14,6 +14,7 @@
 - pkg:cran/adbcsqlite@0.23.0
 - pkg:cran/adbcsqlite@0.23.0-1
 - pkg:cran/adbcsqlite@0.24.0-1
+- pkg:cran/adbcsqlite@0.24.0-2
 - pkg:cran/adbcsqlite@0.6.0
 - pkg:cran/adbcsqlite@0.7.0.1
 - pkg:cran/adbcsqlite@0.8.0
