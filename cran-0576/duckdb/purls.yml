@@ -66,3 +66,4 @@
 - pkg:cran/duckdb@1.5.4.2
 - pkg:cran/duckdb@1.5.4.3
 - pkg:cran/duckdb@1.5.5
+- pkg:cran/duckdb@1.5.6
