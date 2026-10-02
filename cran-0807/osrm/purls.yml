@@ -19,3 +19,4 @@
 - pkg:cran/osrm@4.1.1
 - pkg:cran/osrm@4.2.0
 - pkg:cran/osrm@5.0.0
+- pkg:cran/osrm@6.0.0
