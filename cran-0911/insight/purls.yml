@@ -80,3 +80,5 @@
 - pkg:cran/insight@1.5.3
 - pkg:cran/insight@1.5.4
 - pkg:cran/insight@1.6.0
+- pkg:cran/insight@1.6.1
+- pkg:cran/insight@1.7.0
