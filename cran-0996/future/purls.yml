@@ -62,4 +62,6 @@
 - pkg:cran/future@1.76.0
 - pkg:cran/future@1.8.0
 - pkg:cran/future@1.8.1
+- pkg:cran/future@1.80.0
+- pkg:cran/future@1.82.0
 - pkg:cran/future@1.9.0
