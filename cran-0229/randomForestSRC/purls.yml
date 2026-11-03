@@ -44,6 +44,7 @@
 - pkg:cran/randomForestSRC@3.0.2
 - pkg:cran/randomForestSRC@3.1.0
 - pkg:cran/randomForestSRC@3.1.1
+- pkg:cran/randomForestSRC@3.10.0
 - pkg:cran/randomForestSRC@3.2.0
 - pkg:cran/randomForestSRC@3.2.1
 - pkg:cran/randomForestSRC@3.2.2
