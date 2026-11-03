@@ -34,3 +34,4 @@
 - pkg:cran/parallelly@1.46.1
 - pkg:cran/parallelly@1.47.0
 - pkg:cran/parallelly@1.48.0
+- pkg:cran/parallelly@1.50.0
