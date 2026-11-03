@@ -46,6 +46,7 @@
 - pkg:cran/arrow@24.0.0
 - pkg:cran/arrow@25.0.0
 - pkg:cran/arrow@25.0.1
+- pkg:cran/arrow@26.0.0
 - pkg:cran/arrow@3.0.0
 - pkg:cran/arrow@4.0.0
 - pkg:cran/arrow@4.0.0.1
