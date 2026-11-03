@@ -2,3 +2,6 @@
 - pkg:cran/emhawkes@0.9.5
 - pkg:cran/emhawkes@0.9.7
 - pkg:cran/emhawkes@0.9.8
+- pkg:cran/emhawkes@1.0.0
+- pkg:cran/emhawkes@1.0.1
+- pkg:cran/emhawkes@1.0.2
