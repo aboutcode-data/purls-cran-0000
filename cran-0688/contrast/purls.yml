@@ -10,6 +10,7 @@
 - pkg:cran/contrast@0.22
 - pkg:cran/contrast@0.24.1
 - pkg:cran/contrast@0.24.2
+- pkg:cran/contrast@0.25.0
 - pkg:cran/contrast@0.5
 - pkg:cran/contrast@0.6
 - pkg:cran/contrast@0.8
