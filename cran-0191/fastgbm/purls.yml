@@ -1,2 +1,3 @@
 - pkg:cran/fastgbm@0.6.1
 - pkg:cran/fastgbm@0.7.0
+- pkg:cran/fastgbm@0.7.1
