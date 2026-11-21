@@ -54,3 +54,4 @@
 - pkg:cran/rjags@4-7
 - pkg:cran/rjags@4-8
 - pkg:cran/rjags@4-9
+- pkg:cran/rjags@5-5
